@@ -14,6 +14,7 @@
 
 - 当前版本为 **Preview/预览版**，功能与稳定性可能会调整
 - 如遇问题或建议，欢迎在 **Issues** 提交反馈（附上系统版本与复现步骤更好）
+- 也可以随时加入 Telegram 群交流：[![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-2CA5E0?logo=telegram)](https://t.me/+vq5kaaB3CFFmMTll)
 
 ## 安全校验（可选）
 
